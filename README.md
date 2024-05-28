@@ -1,6 +1,6 @@
 <h1 align="center">НИР - "ЦифроГид".</h1>
 
-<p style="font-weight:bold">"ЦифроГид" - мобильное приложение с элементами дополненной реальности и распознавания объектов для идентифицирования памятников Сталинградской битвы в городе Волгоград.</p>
+<h4 style="font-weight:bold">"ЦифроГид" - мобильное приложение с элементами дополненной реальности и распознавания объектов для идентифицирования памятников Сталинградской битвы в городе Волгоград.</h4>
 
 ---
 <h2 align="center">
@@ -8,31 +8,31 @@
 </h2>
 
 ---
-<p align="center">
+<h4 align="center">
    <a href="https://github.com/VladislavGrom1"><img src="https://avatars.githubusercontent.com/u/108086934?v=4" alt="Kolyamba-mamba" width="50" height="50"> </a>
-</p>
-<p align="center">Ваганов Владислав - ИВТ-363 (Дизайн и карта)</p>
+</h4>
+<h4 align="center">Ваганов Владислав - ИВТ-363 (Дизайн и карта)</h4>
 
 ---
-<p align="center">
+<h4 align="center">
     <a href="https://github.com/B-es"><img src="https://avatars.githubusercontent.com/u/104147126?v=4" alt="tankistqazwsx" width="50" height="50"> </a>
-</p>
-<p align="center">Васильев Иван - ИВТ-363 (Распознавание объектов)</p>
+</h4>
+<h4 align="center">Васильев Иван - ИВТ-363 (Распознавание объектов)</h4>
 
 ---
-<p align="center">
+<h4 align="center">
     <a href="https://github.com/lizard222"><img src="https://avatars.githubusercontent.com/u/108584139?v=4" alt="tankistqazwsx" width="50" height="50"> </a>
-</p>
-<p align="center">Маттиев Рустам - ИВТ-363 (Вёрстка и тестирование)</p>
+</h4>
+<h4 align="center">Маттиев Рустам - ИВТ-363 (Вёрстка и тестирование)</h4>
 
 ---
-<p align="center">
+<h4 align="center">
     <a href="https://github.com/Chilik78"><img src="https://avatars.githubusercontent.com/u/104494266?v=4" alt="tankistqazwsx" width="50" height="50"> </a>
-</p>
-<p align="center">Челядинов Дмитрий - ИВТ-363 (Дополненная реальность)</p>
+</h4>
+<h4 align="center">Челядинов Дмитрий - ИВТ-363 (Дополненная реальность)</h4>
 
 ---
-<p align="center">Скоробогатченко Дмитрий Анатольевич (Научный руководитель проекта)</p>
+<h4 align="center">Скоробогатченко Дмитрий Анатольевич (Научный руководитель проекта)</h4>
 
 </div>
 
