@@ -6,7 +6,7 @@
 <h2 align="center">
 Мобильное приложение "ЦифроГид" разработали студенты ВолгГТУ, факультета 
 </h2>
-<div style="display:flex; align-items:center; justify-content:space-between; border-radius:10px; padding:0.1rem; border-bottom:3px solid black">
+<div style="display:flex; align-items:center; justify-content:space-between; border-radius:10px; padding:0.1rem; border-top:3px solid grey">
 <div style="display:block; font-weight:bold; font-size:1.3rem;">
 <span>Ваганов Владислав - ИВТ-363</span>
 <p style="color:red">(Дизайн и карта)</p>
@@ -15,7 +15,7 @@
    <a href="https://github.com/VladislavGrom1"><img src="https://avatars.githubusercontent.com/u/108086934?v=4" alt="Kolyamba-mamba" width="50" height="50"> </a>
 </p>
 </div>
-<div style="display:flex; align-items:center; justify-content:space-between; border-radius:10px; padding:0.1rem; border-bottom:3px solid black">
+<div style="display:flex; align-items:center; justify-content:space-between; border-radius:10px; padding:0.1rem; border-top:3px solid grey">
 <div align="" style="display:block; font-weight:bold; font-size:1.3rem;">
 <span>Васильев Иван - ИВТ-363</span>
 <p style="color:red">(Распознавание объектов)</p>
@@ -24,7 +24,7 @@
     <a href="https://github.com/B-es"><img src="https://avatars.githubusercontent.com/u/104147126?v=4" alt="tankistqazwsx" width="50" height="50"> </a>
 </p>
 </div>
-<div style="display:flex; align-items:center; justify-content:space-between; border-radius:10px; padding:0.1rem; border-bottom:3px solid black">
+<div style="display:flex; align-items:center; justify-content:space-between; border-radius:10px; padding:0.1rem; border-top:3px solid grey">
 <div style="display:block; font-weight:bold; font-size:1.3rem;">
 <span>Маттиев Рустам - ИВТ-363</span>
 <p style="color:red">(Вёрстка и тестирование)</p>
@@ -33,7 +33,7 @@
     <a href="https://github.com/lizard222"><img src="https://avatars.githubusercontent.com/u/108584139?v=4" alt="tankistqazwsx" width="50" height="50"> </a>
 </p>
 </div>
-<div style="display:flex; align-items:center; justify-content:space-between; border-radius:10px; padding:0.1rem; border-bottom:3px solid black">
+<div style="display:flex; align-items:center; justify-content:space-between; border-radius:10px; padding:0.1rem; border-top:3px solid grey">
 <div style="display:block; font-weight:bold; font-size:1.3rem;">
 <span>Челядинов Дмитрий - ИВТ-363</span>
 <p style="color:red">(Дополненная реальность)</p>
