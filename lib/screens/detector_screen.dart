@@ -351,7 +351,7 @@ class _DetectorScreenState extends BaseStateful<DetectorScreen, HomeViewModel>
         color: Colors.grey.shade900,
         child: Padding(
           padding: const EdgeInsets.all(10),
-          child: Container(
+          child: SizedBox(
               width: MediaQuery.of(context).size.width,
               child: Screenshot(
                   controller: screenshotController,

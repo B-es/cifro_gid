@@ -16,25 +16,25 @@ class HomeViewModel extends BaseViewModel<HomeViewState> {
 
   Future switchCamera() async {
     state.cameraIndex = state.cameraIndex == 0 ? 1 : 0;
-    this.notifyListeners();
+    notifyListeners();
   }
 
   Future<void> loadModel(ModelType type) async {
     state.type = type;
     //if (type != this._tensorFlowService.type) {
-    await this._tensorFlowService.loadModel(type);
+    await _tensorFlowService.loadModel(type);
     //}
-    this._isLoadModel = true;
+    _isLoadModel = true;
   }
 
   Future<void> runModel(CameraImage cameraImage) async {
     if (_isLoadModel && mounted) {
-      if (!this._isDetecting && mounted) {
-        this._isDetecting = true;
-        int startTime = new DateTime.now().millisecondsSinceEpoch;
+      if (!_isDetecting && mounted) {
+        _isDetecting = true;
+        int startTime = DateTime.now().millisecondsSinceEpoch;
         var recognitions =
-            await this._tensorFlowService.runModelOnFrame(cameraImage);
-        int endTime = new DateTime.now().millisecondsSinceEpoch;
+            await _tensorFlowService.runModelOnFrame(cameraImage);
+        int endTime = DateTime.now().millisecondsSinceEpoch;
         print('Time detection: ${endTime - startTime}');
         if (recognitions != null && mounted) {
           state.recognitions = List<Recognition>.from(
@@ -43,7 +43,7 @@ class HomeViewModel extends BaseViewModel<HomeViewState> {
           state.heightImage = cameraImage.height;
           notifyListeners();
         }
-        this._isDetecting = false;
+        _isDetecting = false;
       }
     } else {
       print(
@@ -52,10 +52,10 @@ class HomeViewModel extends BaseViewModel<HomeViewState> {
   }
 
   Future<void> close() async {
-    await this._tensorFlowService.close();
+    await _tensorFlowService.close();
   }
 
   void updateTypeTfLite(ModelType item) {
-    this._tensorFlowService.type = item;
+    _tensorFlowService.type = item;
   }
 }

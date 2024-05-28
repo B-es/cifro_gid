@@ -9,10 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.6
-  flutter_pytorch: ^1.0.1
-  image_picker: ^0.8.6
-  gif: ^2.2.0
   tflite:
     git:
       url: https://github.com/zhengbomo/flutter_tflite.git
@@ -20,7 +16,6 @@ dependencies:
   camera: ^0.11.0
   provider: ^5.0.0
   flutter_screenutil: 5.0.0+2
-  url_launcher: ^6.0.9
   screenshot:
     git:
       url: https://github.com/Mayb3Nots/screenshot.git
@@ -49,7 +44,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/models/
-    - assets/labels/
     - assets/models/yolov2_tiny.txt
     - assets/models/yolov2_tiny.tflite
     - assets/models/ssd_mobilenet.txt

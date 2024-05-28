@@ -23,17 +23,17 @@ class TensorFlowService {
         case ModelType.YOLO:
           res = await Tflite.loadModel(
               model: 'assets/models/yolov2_tiny.tflite',
-              labels: 'assets/models/yolov2_tiny.txt');
+              labels: 'assets/models/yolov2_tiny_ru.txt');
           break;
         case ModelType.SSDMobileNet:
           res = await Tflite.loadModel(
               model: 'assets/models/ssd_mobilenet.tflite',
-              labels: 'assets/models/ssd_mobilenet.txt');
+              labels: 'assets/models/ssd_mobilenet_ru.txt');
           break;
         case ModelType.MobileNet:
           res = await Tflite.loadModel(
               model: 'assets/models/mobilenet_v1.tflite',
-              labels: 'assets/models/mobilenet_v1.txt');
+              labels: 'assets/models/mobilenet_v1_ru.txt');
           break;
         case ModelType.PoseNet:
           res = await Tflite.loadModel(
@@ -42,7 +42,7 @@ class TensorFlowService {
         default:
           res = await Tflite.loadModel(
               model: 'assets/models/yolov2_tiny.tflite',
-              labels: 'assets/models/yolov2_tiny.txt');
+              labels: 'assets/models/yolov2_tiny_ru.txt');
       }
       print('loadModel: $res - $_type');
     } on PlatformException {
