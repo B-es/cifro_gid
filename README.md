@@ -7,40 +7,38 @@
 Мобильное приложение "ЦифроГид" разработали студенты ВолгГТУ, факультета 
 </h2>
 <div style="display:block;">
-    <div style="display:inline-block; font-weight:bold; font-size:1.3rem;">
-        <span>Ваганов Владислав - ИВТ-363</span>
-        <p style="color:red">(Дизайн и карта)</p>
-    </div>
-    <!--<p align="center">-->
-    <a href="https://github.com/VladislavGrom1"><img src="https://avatars.githubusercontent.com/u/108086934?v=4" alt="Kolyamba-mamba" width="50" height="50"> </a>
-    <!-- </p>-->
+<a href="https://github.com/VladislavGrom1"><img src="https://avatars.githubusercontent.com/u/108086934?v=4" alt="Kolyamba-mamba" width="50" height="50"> </a>
+        <span >Ваганов Владислав - ИВТ-363</span>
+        <span color="red">(Дизайн и карта)</span>
+    
+    
 </div>
 <div style="display:block;">
     <div style="display:inline-block; font-weight:bold; font-size:1.3rem;">
         <span>Васильев Иван - ИВТ-363</span>
         <p style="color:red">(Распознавание объектов)</p>
     </div>
-    <!--<p align="center">-->
+    
         <a href="https://github.com/B-es"><img src="https://avatars.githubusercontent.com/u/104147126?v=4" alt="tankistqazwsx" width="50" height="50"> </a>
-    <!-- </p>-->
+    
 </div>
 <div style="display:block;">
     <div style="display:inline-block; font-weight:bold; font-size:1.3rem;">
         <span>Маттиев Рустам - ИВТ-363</span>
         <p style="color:red">(Вёрстка и тестирование)</p>
     </div>
-    <!--<!--<p align="center">-->
+    <!--
         <a href="https://github.com/lizard222"><img src="https://avatars.githubusercontent.com/u/108584139?v=4" alt="tankistqazwsx" width="50" height="50"> </a>
-    <!-- </p>-->
+    
 </div>
 <div style="display:block;">
     <div style="display:inline-block; font-weight:bold; font-size:1.3rem;">
         <span>Челядинов Дмитрий - ИВТ-363</span>
         <p style="color:red">(Дополненная реальность)</p>
     </div>
-        <!--<p align="center">-->
+        
             <a href="https://github.com/Chilik78"><img src="https://avatars.githubusercontent.com/u/104494266?v=4" alt="tankistqazwsx" width="50" height="50"></a>
-        <!-- </p>-->
+        
 </div>
 
 ---
