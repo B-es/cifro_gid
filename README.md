@@ -7,7 +7,6 @@
 Мобильное приложение "ЦифроГид" разработали студенты ВолгГТУ, факультета 
 </h2>
 
----
 <h4 align="center">
    <a href="https://github.com/VladislavGrom1"><img src="https://avatars.githubusercontent.com/u/108086934?v=4" alt="Kolyamba-mamba" width="50" height="50"> </a>
 </h4>
